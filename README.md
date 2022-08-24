@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @codedbystuart
-- 👀 I’m interested in Javascript and Python Projects
+- 👀 I’m a fullstack Javascript and Python Software Engineer
+- 💟 I'm interested in contributing to opensource software.
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine learning projects, ecommerce projects.
+- 💞️ I'm passionate about Projects that ease the life of community lives, have significant business Impacts
 - 📫 You can reach me at `code.stuartdambi@gmail.com`
 
 <!---
